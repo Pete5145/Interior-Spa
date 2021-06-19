@@ -1,0 +1,41 @@
+.bg-light {
+    background-color: black !important;
+}
+.navbar-brand{
+    color: white !important;
+    font-weight: bold;
+    font-size: 35px;
+    margin-left: 40px;
+}
+a.nav-link {
+    color: rgba(238, 201, 34, 0.801) !important;
+    font-size: 20px;
+}
+a:hover.nav-link {
+    background-color: white !important;
+    border-radius: 10px;
+    width: 80px;
+    color: black !important;
+}
+.navbar-nav{
+    margin: auto;
+}
+.nav-item {
+    margin-left: 40px;
+}
+.nav-button{
+    margin-right: 40px;
+    padding: 10px 20px;
+    font-size: 20px;
+}
+span.navbar-toggler-icon{
+    color: gainsboro;
+}
+.navbar-toggler{
+    background-color: rgb(250, 250, 250);
+}
+.navbar{
+    position: fixed;
+    width: 100%;
+    z-index: 9999999;
+}
