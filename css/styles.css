@@ -4,7 +4,7 @@
 .navbar-brand{
     color: white !important;
     font-weight: bold;
-    font-size: 35px;
+    font-size: 30px;
 }
 a.nav-link {
     color: rgba(238, 201, 34, 0.801) !important;
@@ -24,7 +24,7 @@ a:hover.nav-link {
 }
 .nav-button{
     /* margin-right: 40px; */
-    padding: 10px 20px;
+    padding: 7px 20px;
     font-size: 20px;
 }
 span.navbar-toggler-icon{
@@ -81,6 +81,9 @@ span.navbar-toggler-icon{
 .black-button{
      background-color: black;
      color: white;
-     padding: 10px 140px;
-     margin-top:1.5rem;
+     padding: 10px 80px;
+     margin-top: 1.5rem;
+}
+body {
+    overflow-x: hidden;
 }
