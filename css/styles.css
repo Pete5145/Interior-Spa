@@ -5,7 +5,7 @@
     color: white !important;
     font-weight: bold;
     font-size: 35px;
-    margin-left: 40px;
+    /* margin-left: 40px; */
 }
 a.nav-link {
     color: rgba(238, 201, 34, 0.801) !important;
