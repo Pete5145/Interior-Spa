@@ -69,7 +69,7 @@ span.navbar-toggler-icon{
 }
 .black-box {
     background-color: rgb(29, 28, 28);
-    height: 1600px;
+    min-height: 1150px;
     padding: 90px;
 }
 .input-container{
@@ -86,4 +86,23 @@ span.navbar-toggler-icon{
 }
 body {
     overflow-x: hidden;
+}
+.stats-img{
+   background-image: url(../images/stats.jpg);
+   min-height: 350px;
+}
+.box-circle{
+    height: 130px;
+    width: 130px;
+    border: 2px solid white;
+    border-radius: 50%;
+    margin: auto;
+}
+.number{
+    color: rgb(238, 159, 13);
+    margin: 20px 40px;
+}
+.text{
+    color: white;
+    margin: 0px 35px;
 }
